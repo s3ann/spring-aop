@@ -200,3 +200,5 @@ public class TransactionDemo2 {
 <bean id = "transactionDemo2" class = "com.yangxin.core.transaction.TransactionDemo2" />
 <aop:aspectj-autoproxy />
 
+
+
