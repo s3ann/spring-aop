@@ -4,15 +4,9 @@ Spring aop 简单示例
 
 　　基于xml方式配置
 
-　　首先将service，dao注册到spring容器
-
-　　
-
-　　配置一下扫描包还是很方便的
+　　首先将service，dao注册到spring容器,配置一下扫描包
 
 　　接下来看下service
-
-　　
 
 package com.yangxin.core.service.impl;
 
